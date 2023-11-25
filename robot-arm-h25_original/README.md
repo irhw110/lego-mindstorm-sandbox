@@ -1,5 +1,7 @@
 ### Robot Arm H25
 
+<img src="header.jpg" alt="alt text" width="300"/>
+
 **Building Instructions:** [Link to Building Instructions](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-model-core-set-robot-arm-h25-56cdb22c1e3a02f1770bda72862ce2bd.pdf)
 
 **Demo Video:**
