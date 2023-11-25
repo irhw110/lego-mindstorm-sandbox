@@ -1,5 +1,7 @@
 ### Driving Base for Moving Cuboid
 
+![alt text](header.JPG)
+
 **Building Instructions:** [Link to Building Instructions](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/building-instructions/)
 
 **Demo Video:**
